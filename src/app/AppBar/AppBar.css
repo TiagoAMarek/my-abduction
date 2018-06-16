@@ -1,0 +1,21 @@
+@font-face {
+  font-family: futura;
+  src: url(../../assets/futura/Futura\Book\font.ttf);
+}
+
+.app-bar {
+  align-items: center;
+  background-color: #000000;
+  box-sizing: border-box;
+  color: #99d9e5;
+  display: flex;
+  font-family: futura;
+  height: 64px;
+  justify-content: space-between;
+  padding: 0 16px 0 16px;
+  width: 100%;
+}
+
+.app-logo {
+  width: 48px;
+}
