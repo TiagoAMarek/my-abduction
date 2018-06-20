@@ -3,33 +3,3 @@ main {
   flex-direction: column;
   padding: 0 24px 0 24px;
 }
-
-.page__title--wrapper {
-  border-bottom: solid 2px #f4f4f4;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-h2 {
-  color: #f4f4f4;
-  margin: 6px 0 16px 0;
-}
-
-.page__content {
-  display: flex;
-  padding-top: 16px;
-}
-
-.card {
-  background-color: transparent;
-  border-color: #666;
-  border-image-slice: 49% fill;
-  border-image-source: url(https://cdn.2kgames.com/web/xcom.com/images/ui/boxparts_9slice.png);
-  border-image-width: 25px;
-  border-width: 1px;
-  color: #f4f4f4;
-  margin-right: 10px;
-  min-height: 250px;
-  padding: 16px;
-  width: 300px;
-}
